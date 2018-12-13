@@ -1,4 +1,6 @@
-const fs = require('react-native-fs')
+import RNFetchBlob from 'rn-fetch-blob'
+
+const {fs} = RNFetchBlob;
 const iconv = require("iconv-lite")
 
 module.exports = new NodeID3
