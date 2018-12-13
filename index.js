@@ -1,4 +1,4 @@
-const fs = require('fs')
+const fs = require('react-native-fs')
 const iconv = require("iconv-lite")
 
 module.exports = new NodeID3
