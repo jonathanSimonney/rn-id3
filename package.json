@@ -32,6 +32,8 @@
   },
   "license": "MIT",
   "dependencies": {
-    "iconv-lite": "^0.4.15"
+    "buffer": "^5.2.1",
+    "iconv-lite": "^0.4.15",
+    "react-native-fs": "^2.12.1"
   }
 }
