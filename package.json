@@ -34,6 +34,6 @@
   "dependencies": {
     "iconv-lite": "^0.4.15",
     "buffer": "^5.0.8",
-    "react-native-fs": "^2.9.2"
+    "react-native-fs": "^2.12.1"
   }
 }
